@@ -1,7 +1,7 @@
 A comprehensive analysis of survival data using classical and modern biostatistical methods.
 This project demonstrates my skills in survival modelling, model diagnostics, reproducible workflows, and interpretation of time-to-event data.
 
-🔍 Overview
+OVERVIEW
 
 This repository contains my full analysis of the Hodgkin lymphoma survival dataset, using both Accelerated Failure Time (AFT) and Proportional Hazards (PH) models.
 The workflow includes:
@@ -24,8 +24,9 @@ Reproducible R scripts and visualizations
 
 This repository reflects practical biostatistical skills commonly used in clinical research, epidemiology, and real-world evidence analysis.
 
-🛠️ Methods & Techniques Used
-📌 Survival Models
+METHODS AND TECHNIQUES USED
+
+Survival Models
 
 Accelerated Failure Time (AFT) models
 
@@ -43,7 +44,7 @@ Exponential
 
 Gamma
 
-📌 Diagnostics
+Diagnostics
 
 Cox–Snell residuals
 
@@ -55,7 +56,7 @@ Model comparison using AIC/BIC
 
 Likelihood ratio tests
 
-📌 Statistical Tools
+Statistical Tools
 
 survival
 
