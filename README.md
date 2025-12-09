@@ -4,7 +4,7 @@ This project demonstrates my skills in survival modelling, model diagnostics, re
 OVERVIEW
 
 This repository contains my full analysis of the Hodgkin lymphoma survival dataset, using both Accelerated Failure Time (AFT) and Proportional Hazards (PH) models.
-The workflow includes:
+The workflow includes: 
 
 Data cleaning and preparation
 
