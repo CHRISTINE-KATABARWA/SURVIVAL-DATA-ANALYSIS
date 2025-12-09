@@ -24,9 +24,10 @@ Reproducible R scripts and visualizations
 
 This repository reflects practical biostatistical skills commonly used in clinical research, epidemiology, and real-world evidence analysis.
 
+
 METHODS AND TECHNIQUES USED
 
-Survival Models
+SURVIVAL MODELS
 
 Accelerated Failure Time (AFT) models
 
@@ -44,7 +45,8 @@ Exponential
 
 Gamma
 
-Diagnostics
+
+DIAGNOSTICS
 
 Cox–Snell residuals
 
@@ -56,7 +58,8 @@ Model comparison using AIC/BIC
 
 Likelihood ratio tests
 
-Statistical Tools
+
+STATISTICAL TOOLS
 
 survival
 
